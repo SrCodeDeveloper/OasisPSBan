@@ -1,0 +1,13 @@
+name: OasisPsBan
+main: me.srcode.oasispsban
+version: 1.0
+website: https://github.com/SrCodeDeveloper
+description: Ban player of your protection
+author: SrCode
+depend:
+  - WorldGuard
+  - ProtectionStones
+commands:
+  setbanlocation:
+    permission: "oasispsban.setkicklocation"
+    description: "Sets the kick location for protection stones bans/kicks"

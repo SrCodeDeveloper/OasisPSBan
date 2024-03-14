@@ -1,0 +1,15 @@
+#Plugin developed by SrCode
+#Permissions:
+#oasispsban.bypass
+#oasispsban.setkicklocation"
+kicked-from-region: "&cFuiste expulsado de la proteccion en la que te encontrabas"
+kicked-player: "&cEl jugador %player% fue expulsado de la proteccion"
+banned-player: "&cEl jugador %player% fue vetado de la proteccion"
+unban-player: "&aEl veto del jugador %player% fue eliminado"
+cant-ban-yourself: "&cNo puedes vetarte a ti mismo de esta proteccion."
+cant-kick-yourself: "&cNo puedes expulsarte a ti mismo de esta proteccion."
+cant-enter-banned: "&cNo puedes entrar a esta proteccion, debido a que haz sido vetado."
+
+members-can-kick: false
+members-can-ban: false
+members-can-unban: false
